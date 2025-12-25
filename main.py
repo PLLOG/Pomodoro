@@ -259,6 +259,10 @@ while True:
 
         case _:
             print ('нераспознанная команда\n')
+
+
+def test(): # Код для PR
+    pass
             
                             
                 
