@@ -1,4 +1,4 @@
 timer_name,time
-session,0.3
-s_break,0.3
-b_break,0.3
+session,25
+s_break,5
+b_break,15
