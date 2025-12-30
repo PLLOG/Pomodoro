@@ -2,6 +2,10 @@ import winsound
 import time
 import csv
 import os
+
+"""
+Предлагаю исправить все названия переменных в соответствие с PEP8'
+"""
 def str_modif(strInput):
     newString=strInput.strip(',.!? ').lower()
     return newString
